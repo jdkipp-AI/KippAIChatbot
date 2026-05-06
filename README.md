@@ -57,27 +57,24 @@ responds with "I do not know" - no hallucinations.
 ---
 
 ## Project Structure
-KippAIChatbot/
-│
-├── docs/
-│ ├── aztecs.pdf
-│ ├── french_and_indian_war.pdf
-│ ├── american_black_bear.pdf
-│ └── huskiesfb.pdf
-│
-├── chroma_db/
-│
-├── assets/
-│ └── demo_screenshot.png
-│
-├── run_chatbot.py
-├── diag.py
-│
-├── chatbot_performance.csv
-├── environment.yml
-├── requirements.txt
-├── .gitignore
-└── README.md
+
+docs/
+- aztecs.pdf
+- french_and_indian_war.pdf
+- blackbear.pdf
+- huskiesfb.pdf
+
+assets/
+- demo_screenshot.png
+
+Root files:
+- run_chatbot.py
+- diag.py
+- environment.yml
+- requirements.txt
+- .gitignore
+- README.md
+  
 text
 
 ---
