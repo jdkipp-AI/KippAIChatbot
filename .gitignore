@@ -1,0 +1,17 @@
+# Vector database - auto generated
+chroma_db/
+
+# Performance log
+chatbot_performance.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
