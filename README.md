@@ -58,13 +58,13 @@ responds with "I do not know" - no hallucinations.
 
 ## Project Structure
 
-docs/
+docs:
 - aztecs.pdf
 - french_and_indian_war.pdf
 - blackbear.pdf
 - huskiesfb.pdf
 
-assets/
+assets:
 - demo_screenshot.png
 
 Root files:
